@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @carissalbrubaker
-- 👀 I’m interested in data science, biology, and learning to program
-- 🌱 I’m currently learning SQL- on my own time, but it is hard to keep up. Any tips help! 
-- 💞️ I’m looking to collaborate on anything! I am a COMPLETE beginner. 
+- 👀 I’m interested in public health and biostatistics 
+- 🌱 Currently most of my experience is in SAS but I am looking to learn R and hopefully some fun stuff too 
 - 📫 How to reach me ... carissaleighbrubaker@gmail.com
 
 <!---
